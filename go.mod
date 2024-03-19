@@ -1,4 +1,4 @@
-module github.com/microsoft/go-winio
+module github.com/algeralith/go-winio
 
 go 1.17
 
